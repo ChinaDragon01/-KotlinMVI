@@ -23,7 +23,7 @@
 >- 数据库
    >[room](https://developer.android.com/jetpack/androidx/releases/room?hl=en#kts)
 >- api
-   >[玩Android 开放API](api%E5%9C%B0%E5%9D%80%20https://www.wanandroid.com/blog/show/2)
+   >[玩Android 开放API](https://www.wanandroid.com/blog/show/2)
 >- Gradle依赖统一版本管理
    >[Version Catalog](https://docs.gradle.org/7.0/release-notes.html)
    >[TOML官网](https://toml.io/en/)
